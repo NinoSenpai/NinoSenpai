@@ -5,3 +5,7 @@
 <p align="center"> 
   <a href="https://discord.com/api/oauth2/authorize?client_id=1019015182137184326&permissions=8&scope=bot" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/1019015182137184326.png"/> </a> 
 </p>
+
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+</p>
