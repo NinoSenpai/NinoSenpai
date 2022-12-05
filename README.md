@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/917913229668274186?borderRadius=20px&animated=true&idleMessage=spin%20isn%27t%20currently%20doing%20anything" />
+  <a href="https://discord.gg/NXMuGCxgEJ" target="_blank"> <img src="https://lanyard.cnrad.dev/api/917913229668274186?borderRadius=20px&animated=true&idleMessage=spin%20isn%27t%20currently%20doing%20anything" />
   <br />
   <br />
 </p>
